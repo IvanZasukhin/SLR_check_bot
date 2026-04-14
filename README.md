@@ -12,22 +12,12 @@
 - 🖱 **Клик по боту** → ник копируется в буфер обмена
 - 🌐 **Двойной клик по игроку** → открывается Steam профиль
 
-## Скриншот
+## Скриншоты
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ▶ Старт  ⏹ Стоп  Очистить  Экспорт CSV  Экспорт Excel │
-├──────────────┬──────────────┬────────────┐               │
-│ 🤖 БОТЫ      │ 👥 ИГРОКИ    │ 📦 ПАКЕТЫ  │               │
-│      3       │      5       │     47     │               │
-├──────────────┴──────────────┴────────────┤               │
-│ Имя          │ Участник           │ Тип  │               │
-│──────────────┼────────────────────┼──────│               │
-│ Leviathans...│ Leviathans... (AI)│ Bot  │               │
-│ Ayarih       │ Ayarih (AI_2)     │ Bot  │               │
-│ Westnik      │ steam_76561...    │Player│               │
-└─────────────────────────────────────────────────────────┘
-```
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6c132475-8d29-4736-83eb-b7fdaefb846c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/62c51a6c-046d-468d-8b2e-9b9cfa4e1601" />
+
+
 
 ## Установка
 
@@ -35,7 +25,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/YOUR_USERNAME/slr-check-bot.git
+git clone https://github.com/IvanZasukhin/slr-check-bot.git
 cd slr-check-bot
 
 # 2. Установите зависимости
@@ -47,7 +37,7 @@ python main.py
 
 ### Способ 2: Готовый EXE
 
-1. Скачайте релиз со страницы [Releases](https://github.com/YOUR_USERNAME/slr-check-bot/releases)
+1. Скачайте релиз со страницы [Releases]([https://github.com/IvanZasukhin/SLR_check_bot/releases])
 2. Распакуйте архив
 3. Запустите `SLRCheckBot.exe` **от имени администратора**
 
